@@ -1,0 +1,22 @@
+.slider {
+    border: 1px solid red;
+
+}
+
+.slider .item {
+    height: 400px;
+    color: #fff;
+    font-size: 30px;
+}
+
+.slider .item-1 {
+    background: red;
+}
+
+.slider .item-2 {
+    background: blue;
+}
+
+.slider .item-3 {
+    background: green;
+}
